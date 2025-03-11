@@ -1,4 +1,4 @@
-<BloxstrapCustomBootstrapper Version="0" Height="320" Width="510" Theme="Light">
+<BloxstrapCustomBootstrapper Version="1" Height="320" Width="510" Theme="Light">
 	<BloxstrapCustomBootstrapper.Background>
 		<LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
 			<GradientStop Color="Yellow" Offset="0.0" />

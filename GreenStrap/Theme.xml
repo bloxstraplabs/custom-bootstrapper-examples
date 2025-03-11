@@ -1,6 +1,5 @@
-<BloxstrapCustomBootstrapper Version="0" Height="320" Width="500" Theme="Light">
+<BloxstrapCustomBootstrapper Version="1" Height="320" Width="500" Theme="Light" Background="#00FF00" BorderBrush="Green" BorderThickness="1">
 	<TitleBar Title="GreenStrap" />
-	<Image Height="1000" Width="1000" Source="theme://bup.png" Margin="0,-40,0,0" />
 	<Image Height="100" Width="100" Source="{Icon}" Margin="0,10,0,0" HorizontalAlignment="Center">
 		<Image.RenderTransform>
 			<SkewTransform AngleX="59" AngleY="219" CenterY="50" CenterX="30" />

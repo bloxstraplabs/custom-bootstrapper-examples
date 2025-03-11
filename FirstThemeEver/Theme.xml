@@ -1,4 +1,4 @@
-<BloxstrapCustomBootstrapper Version="0" Height="320" Width="500" Theme="Light">
+<BloxstrapCustomBootstrapper Version="1" Height="320" Width="500" Theme="Light">
 	<TitleBar Title="Custom Bootstrapper Example" />
 	<TextBlock Text="It works!" Width="400" HorizontalAlignment="Center" Margin="0,100,0,0" Foreground="{TextFillColorPrimaryBrush}" />
 	<Image Height="100" Width="100" Source="{Icon}" Margin="0,10,0,0" HorizontalAlignment="Center">
