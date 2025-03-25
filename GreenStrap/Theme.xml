@@ -29,7 +29,7 @@
 			<SkewTransform AngleX="120" AngleY="20" CenterX="200" />
 		</ProgressBar.RenderTransform>
 	</ProgressBar>
-	<Button Name="CancelButton" Content="Cancel" Height="40" Width="100" HorizontalAlignment="Center" Margin="0,225,0,0" BorderBrush="Blue" BorderThickness="4">
+	<Button Name="CancelButton" Content="{Common.Cancel}" Height="40" Width="100" HorizontalAlignment="Center" Margin="0,225,0,0" BorderBrush="Blue" BorderThickness="4">
 		<Button.RenderTransform>
 			<RotateTransform Angle="50" CenterX="100" />
 			<ScaleTransform ScaleY="4" CenterY="0" />
